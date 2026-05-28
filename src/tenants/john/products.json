@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "code": "1515",
+    "name": "sabao de barra",
+    "description": "",
+    "price": 5,
+    "stock": 1,
+    "image": "",
+    "active": true,
+    "createdAt": 1779919566359
+  }
+]

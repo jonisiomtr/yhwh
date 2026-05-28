@@ -1,0 +1,14 @@
+{
+  "undefined": {
+    "flow": "scheduling",
+    "step": "select_date",
+    "cart": [],
+    "data": {},
+    "createdAt": 1779920238058,
+    "selectedService": {
+      "id": 2,
+      "name": "aparar cabelo",
+      "price": "55"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "john",
+  "name": "john",
+  "password": "10",
+  "modules": [
+    "assistant",
+    "scheduling"
+  ],
+  "adminNumber": "5591991873356@s.whatsapp.net",
+  "phoneNumber": "5591991873356"
+}

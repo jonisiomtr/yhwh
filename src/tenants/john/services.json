@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "corta unha",
+    "price": "25"
+  },
+  {
+    "id": 2,
+    "name": "aparar cabelo",
+    "price": "55"
+  }
+]
